@@ -11,7 +11,7 @@ import jenkins from '../assets/jenkins.png'
 import docker from '../assets/docker.webp'
 import Skills from './Skills';
 
-
+ 
 const Home = () => {
 
     const scrollToSection = (id) => {
