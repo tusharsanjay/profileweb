@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/profileweb/static/css/main.147fdbc5.css",
+    "main.js": "/profileweb/static/js/main.c3907fff.js",
+    "static/js/488.97a5b58a.chunk.js": "/profileweb/static/js/488.97a5b58a.chunk.js",
+    "static/media/profile.webp": "/profileweb/static/media/profile.8f89b55aa18d6a575c9f.webp",
+    "static/media/home_section_bg.webp": "/profileweb/static/media/home_section_bg.5040e770a5ce42e9e8e5.webp",
+    "static/media/terraform_aws.png": "/profileweb/static/media/terraform_aws.7ba283db730145b76d03.png",
+    "static/media/docker.webp": "/profileweb/static/media/docker.18fc6dc03451e9d3fa41.webp",
+    "static/media/jenkins.png": "/profileweb/static/media/jenkins.1238970da9c1f987ae10.png",
+    "index.html": "/profileweb/index.html",
+    "main.147fdbc5.css.map": "/profileweb/static/css/main.147fdbc5.css.map",
+    "main.c3907fff.js.map": "/profileweb/static/js/main.c3907fff.js.map",
+    "488.97a5b58a.chunk.js.map": "/profileweb/static/js/488.97a5b58a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.147fdbc5.css",
+    "static/js/main.c3907fff.js"
+  ]
+}
